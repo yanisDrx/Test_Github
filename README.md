@@ -7,5 +7,4 @@ Je suis étudiant à CPE Lyon en filière Electronique, Telecommunication et Inf
 
 ![Logo de CPE Lyon](cpe.png)
 
-
-<img src="logo.png" alt="Logo" width="50%">
+Conflit créé ?

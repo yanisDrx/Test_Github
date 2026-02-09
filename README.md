@@ -7,4 +7,3 @@ Je suis étudiant à CPE Lyon en filière Electronique, Telecommunication et Inf
 
 ![Logo de CPE Lyon](cpe.png)
 
-Je crée maintenant un conflit oui baguette
